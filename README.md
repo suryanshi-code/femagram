@@ -1,2 +1,2 @@
 # mini_insta
-This project is about building a kind od social app name femagram
+This project is about building a kind of social app named femagram
